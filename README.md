@@ -15,4 +15,5 @@ I've added the [midterm study guide answers](https://github.com/nityamathew/Math
 
 Here's a link to a PDF verison of Euclid's Elements: http://www.greenlion.com/PDFs/Eu-I-1-7.pdf
 
+**EXTRA CREDIT (20 points):** If you create a song and music video about geometry! :D
 
