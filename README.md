@@ -9,9 +9,6 @@ If you have any questions, feel free to email me at nitya.mathew333@gmail.com.
 
 Announcements
 -----------------
-*I've graded the midterms - come see me if you want to know your grade.*  
-
-
-Here's a link to a PDF verison of Euclid's Elements: http://www.greenlion.com/PDFs/Eu-I-1-7.pdf
+Euclid's Elements: https://mathcs.clarku.edu/~djoyce/elements/bookI/bookI.html
 
 **EXTRA CREDIT (20 points):** Create a song and music video about geometry! :D
